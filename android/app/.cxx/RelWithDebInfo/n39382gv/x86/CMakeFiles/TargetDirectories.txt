@@ -1,0 +1,2 @@
+C:/Users/harsh/Desktop/Cotton2/client/android/app/.cxx/RelWithDebInfo/n39382gv/x86/CMakeFiles/edit_cache.dir
+C:/Users/harsh/Desktop/Cotton2/client/android/app/.cxx/RelWithDebInfo/n39382gv/x86/CMakeFiles/rebuild_cache.dir
